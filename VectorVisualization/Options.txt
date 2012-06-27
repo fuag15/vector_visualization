@@ -1,0 +1,22 @@
+//////////////////////////////////////////////////////////////////
+// Options.txt - These are the base options that you selected
+//////////////////////////////////////////////////////////////////
+
+You have selected to use Maya 2008
+
+Vendor Name is: Brian Torres
+
+Verbose Comments ON
+
+Plug-in type number (0-Empty, 1-MEL, 2-MEL w/Undo, 3-DG Node)
+3
+
+Maya Type Name (Plug-in Name)
+VectorVisualization
+
+Included Libraries:
+Foundation
+OpenMaya
+OpenMayaUI
+OpenMayaFX
+OpenGL32
