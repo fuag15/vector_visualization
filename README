@@ -1,7 +1,9 @@
 This is a tool for Maya 2010 and later useful for visualizing cumulative forces from vector fields. Its useful for cloth simulation as well as other fluid dynamics effects as it gives the artist more feedback than they would have about the force in each sector of space
 
-Brian Torres came up with the idea for this project and we both talked about it, he did a lot of the initial pushing then one weekend we sat down and got it 90% of the way there and later he finished it the rest of the way.
+Brian Torres (http://www.vfxectropy.com) came up with the idea for this project and we both talked about it, he did a lot of the initial pushing then one weekend we sat down and got it 90% of the way there and later he finished it the rest of the way.
 
 Prior to this tool the way artists determined what vector fields were doing to a scene was with thousands of particles and running the simulation, this took lots of time to do and if you wanted a change you had to guess and rerun the simulation to see if it worked. This tool allows easy intuitive real time feedback of what fields are doing.
 
 Brian made a great demo vid of the tool at http://www.vimeo.com/12197659
+
+For some pretty pictures of this project and other non-code related things I'm doing check out http://www.steelpigeondesign.com/project_categories/1/projs/1
